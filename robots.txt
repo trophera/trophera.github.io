@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://trophera.github.io/sitemap.html.gz
+Sitemap: https://trophera.github.io/app/sitemap.html.gz
+Sitemap: https://trophera.github.io/assets/sitemap.html.gz
+Sitemap: https://trophera.github.io/css/sitemap.html.gz
+Sitemap: https://trophera.github.io/includes/sitemap.html.gz
+Sitemap: https://trophera.github.io/item/sitemap.html.gz
+Sitemap: https://trophera.github.io/src/sitemap.html.gz
